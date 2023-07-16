@@ -43,7 +43,7 @@
 
 操作2：基础框架搭建
 
-+ GCNC原理：![](https://gitee.com/eslinyi/picture/raw/master/img/20230712112712.png)
++ GCN原理：![](https://gitee.com/eslinyi/picture/raw/master/img/20230712112712.png)
 + 实际使用---代码成立 --project1
 + 对该函数源代码理解 ----[torch_geometric.nn.conv.gcn_conv — pytorch_geometric documentation (pytorch-geometric.readthedocs.io)](https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/nn/conv/gcn_conv.html#GCNConv)
 
